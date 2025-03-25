@@ -9,7 +9,6 @@ from streamlit.components.v1 import html
 import plotly.graph_objects as go
 import random
 import requests
-import config
 
 
 
