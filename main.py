@@ -14,7 +14,7 @@ import config
 
 
 # Set up the Google API key
-os.environ["GOOGLE_API_KEY"] = config.google_api_key
+os.environ["GOOGLE_API_KEY"] = st.secrets['google_api_key']
 
 # Configure the Gemini model
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
