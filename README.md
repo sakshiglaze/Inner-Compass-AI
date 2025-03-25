@@ -1,6 +1,6 @@
 # Inner-Compass-AI
 
-Inner Compass AI is an interactive web application designed to provide mental health support through empathetic AI conversations, guided meditations, and stress-relief games. The application aims to create a safe space for users to explore their feelings and find personalized coping strategies.
+Inner Compass AI is an interactive web application designed to provide mental health support through empathetic AI conversations, guided meditations, and stress-relief games. The application aims to create a safe space for users to explore their feelings and find personalized coping strategies. URL : https://inner-compass-ai.streamlit.app/
 
 ## Table of Contents
 
