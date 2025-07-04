@@ -24,6 +24,8 @@ Inner Compass AI is an interactive web application designed to provide mental he
 - *Google Generative AI*: For generating responses and personalized content.
 - *Plotly*: For visualizing data and displaying radar charts.
 - *HTML/CSS*: For custom styling of the application.
+![image](https://github.com/user-attachments/assets/d3dbea5e-faff-429b-9a69-e4a690bf3cf1)
+
 
 ## Installation
 
